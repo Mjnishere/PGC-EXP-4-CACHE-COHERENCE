@@ -1,0 +1,3 @@
+Experiment 4 source: Exp_4_Cache_Coherence_NUMA.pdf
+Reference repository style: PGC-EXP3-SYNCHRONIZATION-main.zip
+Execution screenshots: supplied in pgcexp4.zip and preserved under screenshots/.
